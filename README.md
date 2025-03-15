@@ -1,2 +1,2 @@
-# Piano-song-simulator
-Piano song simulator
+# Piano-song-simulator using Python
+
